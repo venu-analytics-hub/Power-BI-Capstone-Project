@@ -1,5 +1,5 @@
 
-## 🛍️ ShopNest Store: Sales & Delivery 
+## 🛍️ ShopNest_Store_Project:
 
 ShopNest, a major online department store in Portugal, needed insights into sales performance, delivery efficiency, and customer behavior using anonymized transaction data.
 
